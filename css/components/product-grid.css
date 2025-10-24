@@ -58,4 +58,18 @@
     text-align: center;
 }
 
+.card-title{
+    color: #EDEDED;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.card-subtitle{
+    color: #EDEDED;
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
 
