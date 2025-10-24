@@ -1,8 +1,11 @@
 /* hero.css */
 .hero-section{
-    background: url(../../images/banners/a70c52ea4ec11da7d6f6e989b2db346fd6660e94.jpg);
+    background: url(../../images/banners/a70c52ea4ec11da7d6f6e989b2db346fd6660e94.jpg) no-repeat center;
     background-size: cover;
+
     height: 500px;
+    position: relative;
+    border-radius: 20px;
 }
 
 .hero-overlay{
