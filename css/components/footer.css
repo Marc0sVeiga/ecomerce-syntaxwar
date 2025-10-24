@@ -6,5 +6,23 @@
 
 .footer-content{
     max-width: 1200px;
-    margin: 0 auto;    
+    margin: 0 auto;
+    padding: 40px;
+    display: flex; 
+}
+
+.footer-right{
+    display: flex;
+    flex-direction: collumn;
+    gap: 3.125rem;
+}
+
+.footer-nav ul{
+    display: flex;
+}
+
+.footer-nav ul ul{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
 }
