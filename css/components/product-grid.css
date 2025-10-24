@@ -32,8 +32,8 @@
     background-image: url(../../images/products/preto-azul-grid.jpg);
 }
 
-.sneaker-gray{
-    grid-area: sneaker-gray;
+.sneaker-silver{
+    grid-area: sneaker-silver;
     background-image: url(../../images/products/moderno-grid.jpg);
 }
 
@@ -45,7 +45,7 @@
     grid-template-areas: 
         "highlight highlight sneaker-purple sneaker-purple"
         "highlight highlight model sneaker-color"
-        "sneaker-white sneaker-white model sneaker-gray"
+        "sneaker-white sneaker-white model sneaker-silver"
         ;
     gap: 30px;
 }
