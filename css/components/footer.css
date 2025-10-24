@@ -1,1 +1,10 @@
 /* footer.css */
+.site-footer{
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.footer-content{
+    max-width: 1200px;
+    margin: 0 auto;    
+}
